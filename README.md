@@ -8,7 +8,7 @@ This is a Password Strength Analyzer tool developed as part of an internship pro
 
 **Project outputs**
  **1. Weak Password Analysis (Example)**
-![Weak Password Execution](Screenshot 2026-07-09 221355.png)
+![Weak Password Execution](Screenshot 2026-07-09 221355.png) 
 
  **2. Strong Password Analysis (Example)**
 ![Strong Password Execution](Screenshot 2026-07-09 221420.png)
